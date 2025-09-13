@@ -21,7 +21,7 @@ Right now this profile is the foundation. Upcoming repos will include:
 ---
 
 ## Contact
-- 📧 Email: [richard@CybrThorn.com](mailto:richard@CybrThorn.com)  
+- 📧 Email: [richard@CybrThorn.com](mailto:richard@cybrthorn.com)  
 
 ---
 
