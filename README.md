@@ -1,4 +1,4 @@
-# CybrThorn — My Cybersecurity Journey
+# My Cybersecurity Journey
 
 Welcome to my GitHub profile. I’m Richard, building my path from hands-on technical work into cybersecurity. My focus is discipline, consistency, and practical skills — one step at a time.
 
