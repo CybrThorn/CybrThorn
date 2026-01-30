@@ -8,15 +8,7 @@ Welcome to my GitHub profile. I’m Richard, building my path from hands-on tech
 - 📍 Based in Budapest, Hungary  
 - ⚡ Background: electrician & warehouse worker  
 - 🎯 Goal: transition into cybersecurity and network engineering  
-- 📚 Current studies: Security+ prep, Python scripting, networking fundamentals  
-
----
-
-## What to Expect Here
-Right now this profile is the foundation. Upcoming repos will include:
-- **Scripts** (Python & PowerShell automation)  
-- **Labs** (firewall configs, packet captures, SOC notes)  
-- **Docs** (study notes, cheat sheets, CTF writeups)  
+- 📚 Current studies: Networking fundamentals, CCNA prep, CS50x
 
 ---
 
